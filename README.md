@@ -1,9 +1,9 @@
 <h1 align= "center"><b>Hi there👋, i'm Alif Sathar!</b></h1>
 
 <p  align = "center">
-    <a href="https://www.linkedin.com/in/ahmed-nasef-56041b323/" alt="LinkedIn">
+    <a href="https://www.linkedin.com/in/alif-sathar-06047628a/" alt="LinkedIn">
         <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=LinkedIn" /></a>
-    <a href="https://www.kaggle.com/ahmedwaelnasef" alt="Kaggle">
+    <a href="https://www.kaggle.com/alifsathar" alt="Kaggle">
         <img src="https://img.shields.io/badge/-Kaggle-3a424f?flat-square&logo=Kaggle" /></a>
 </p>
 
