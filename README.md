@@ -16,9 +16,9 @@
 
 - 👨‍💻 AI Undergraduate Student
 
-- 🤖 [3X Kaggle Expert](https://www.kaggle.com/alifsathar)
+- 🤖 [3X Kaggle Contributor](https://www.kaggle.com/alifsathar)
 
-- ⚡  Developing Skills more and more in  : `Computer Vision`  , `Artifical Intelligence`
+- ⚡  Developing Skills more and more in  : `Artifical Intelligence` ,`Machine Learning`
 
 
 
