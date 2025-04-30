@@ -24,7 +24,7 @@
 
 - 🚀 [My linkedin Profile](https://www.linkedin.com/in/alif-sathar-06047628a/)
 - 🚀 [My Kaggle Profile](https://www.kaggle.com/alifsathar)
-- 🚀 [My Hackerrank Account](https://www.hackerrank.com/profile/ahmednasef9889)
+- 🚀 [My Hackerrank Account](https://www.hackerrank.com/profile/alifsatharoffic1)
 
 
 <h2 align="left">Frameworks & Skills :</h2>
