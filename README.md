@@ -18,7 +18,7 @@
 
 - 🤖 [3X Kaggle Contributor](https://www.kaggle.com/alifsathar)
 
-- ⚡  Developing Skills more and more in  : `Artifical Intelligence` ,`Machine Learning`
+- ⚡  Developing Skills more and more in  : `Artifical Intelligence`,`Machine Learning`
 
 
 
