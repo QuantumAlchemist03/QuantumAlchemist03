@@ -44,10 +44,6 @@
 </p>
 
 
-              <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
-            </td>
-        </tr>
-    </table>
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" /></div>
 <br>
