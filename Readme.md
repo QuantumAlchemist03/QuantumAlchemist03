@@ -47,5 +47,4 @@
 </div>
 <div align="center"><img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" /></div>
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> <a href="https://wakatime.com/@018e82dc-399b-4b20-a496-79b1527d0a44">
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=coderhisham&label=Profile%20views&color=0e75b6&style=flat" alt="coderhisham" /> 
