@@ -49,4 +49,9 @@
 <br>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=QuantumAlchemist03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=tokyonight&count_private=true&langs_count=8&hide_border=true" height="180" />
+</p>
+
+![GitHub Streak](https://streak-stats.demolab.com?user=QuantumAlchemist03&theme=tokyonight&hide_border=true)
