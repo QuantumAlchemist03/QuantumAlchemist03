@@ -51,4 +51,4 @@
 
 <p align="left">
     
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=dark&langs_count=10)
+[![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=dark)](https://github.com/QuantumAlchemist03)
