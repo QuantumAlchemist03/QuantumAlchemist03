@@ -51,8 +51,3 @@
 
 <p align="left">
     
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=tokyonight&count_private=true&langs_count=8&hide_border=true)
- 
-</p>
-
-![GitHub Streak](https://streak-stats.demolab.com?user=QuantumAlchemist03&theme=tokyonight&hide_border=true)
