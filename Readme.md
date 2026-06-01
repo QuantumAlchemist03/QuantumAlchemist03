@@ -51,4 +51,4 @@
 
 <p align="left">
     
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=QuantumAlchemist03&layout=compact&theme=dark&langs_count=10)
