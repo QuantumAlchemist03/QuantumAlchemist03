@@ -1,3 +1,4 @@
+# **QUANTUMALCHEMIST03 / README**
 # ALIF SATHAR
 
 **AI ENGINEER — UNDERGRADUATE**  ·  Cambridge, UK  ·  REV 2026.07
@@ -7,6 +8,9 @@
 <a href="https://www.hackerrank.com/profile/alifsatharoffic1"><img src="https://img.shields.io/badge/HackerRank-1d1f20?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank"></a>
 
 ---
+
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+
 
 ## 01 — SPECIFICATION
 
@@ -20,6 +24,7 @@ STATUS .......... open to AI/ML engineering roles and placements
 ```
 
 ---
+
 
 ## 02 — SELECTED WORK, MEASURED
 
@@ -57,6 +62,9 @@ Every figure below is reproducible from the linked repository.
 <img src="https://img.shields.io/badge/MATLAB-1d1f20?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
 
 ---
+</div>
+<div align="center"><img src="https://raw.githubusercontent.com/coderhisham/coderhisham/output/snake.svg" alt="Snake animation" /></div>
+<br>
 
 ## 04 — FULL INDEX
 
