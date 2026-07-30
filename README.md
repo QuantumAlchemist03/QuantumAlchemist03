@@ -50,16 +50,7 @@ Every figure below is reproducible from the linked repository.
 | Serving | Flask · FastAPI · Docker · Leaflet |
 | Systems | Python · C / C++ · MATLAB · SQL · Mbed OS · Git Actions |
 
-<img src="https://img.shields.io/badge/Python-1d1f20?style=flat-square&logo=python&logoColor=white" alt="Python">
-<img src="https://img.shields.io/badge/TensorFlow-1d1f20?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow">
-<img src="https://img.shields.io/badge/Keras-1d1f20?style=flat-square&logo=keras&logoColor=white" alt="Keras">
-<img src="https://img.shields.io/badge/scikit--learn-1d1f20?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn">
-<img src="https://img.shields.io/badge/pandas-1d1f20?style=flat-square&logo=pandas&logoColor=white" alt="pandas">
-<img src="https://img.shields.io/badge/OpenCV-1d1f20?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV">
-<img src="https://img.shields.io/badge/FastAPI-1d1f20?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI">
-<img src="https://img.shields.io/badge/Flask-1d1f20?style=flat-square&logo=flask&logoColor=white" alt="Flask">
-<img src="https://img.shields.io/badge/Docker-1d1f20?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-<img src="https://img.shields.io/badge/MATLAB-1d1f20?style=flat-square&logo=mathworks&logoColor=white" alt="MATLAB">
+
 
 ---
 </div>
