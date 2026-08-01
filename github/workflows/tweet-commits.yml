@@ -1,0 +1,80 @@
+name: LinkedIn Commit Post
+
+on:
+  push:
+    branches:
+      - main
+      - master
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Install requests
+        run: pip install requests
+
+      - name: Post commit to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_AUTHOR_URN: ${{ secrets.LINKEDIN_AUTHOR_URN }}
+        run: |
+          python - <<'EOF'
+          import os, subprocess, requests
+
+          commit_hash = subprocess.check_output(
+              ["git", "rev-parse", "--short", "HEAD"]).decode().strip()
+          commit_msg = subprocess.check_output(
+              ["git", "log", "-1", "--pretty=%B"]).decode().strip()
+          repo = os.environ["GITHUB_REPOSITORY"].split("/")[-1]
+          url = f"https://github.com/{os.environ['GITHUB_REPOSITORY']}/commit/{commit_hash}"
+
+          short_msg = commit_msg.split("\n")[0][:120]
+          text = f"New commit on {repo}: {short_msg}\n\n{url}"
+
+          if len(text) > 250:
+              print(f"Skipping — text is {len(text)} chars (over 250).")
+              raise SystemExit(0)
+
+          token = os.environ["LINKEDIN_ACCESS_TOKEN"]
+          author = os.environ["LINKEDIN_AUTHOR_URN"]
+
+          headers = {
+              "Authorization": f"Bearer {token}",
+              "Content-Type": "application/json",
+              "X-Restli-Protocol-Version": "2.0.0",
+              "LinkedIn-Version": "202506",
+          }
+
+          payload = {
+              "author": author,
+              "commentary": text,
+              "visibility": "PUBLIC",
+              "distribution": {
+                  "feedDistribution": "MAIN_FEED",
+                  "targetEntities": [],
+                  "thirdPartyDistributionChannels": [],
+              },
+              "lifecycleState": "PUBLISHED",
+              "isReshareDisabledByAuthor": False,
+          }
+
+          r = requests.post(
+              "https://api.linkedin.com/rest/posts",
+              headers=headers, json=payload)
+
+          if r.status_code in (200, 201):
+              print(f"Posted OK: {text}")
+          else:
+              print(f"Failed [{r.status_code}]: {r.text}")
+              raise SystemExit(1)
+          EOF
