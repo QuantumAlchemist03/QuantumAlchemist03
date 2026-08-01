@@ -60,7 +60,7 @@ Every figure below is reproducible from the linked repository.
 ## 04 — FULL INDEX
 
 <details>
-<summary><b>Machine learning &amp; deep learning</b></summary>
+<summary><b>Machine learning &amp; Deep learning</b></summary>
 
 - [Deep-Learning_Food101](https://github.com/QuantumAlchemist03/Deep-Learning_Food101) — baseline MLP, custom CNN, SOM clustering and autoencoder experiments on Food-101
 - [ML- (ECG arrhythmia)](https://github.com/QuantumAlchemist03/ML-) — supervised classification of MIT-BIH heartbeat signals
@@ -104,6 +104,6 @@ Every figure below is reproducible from the linked repository.
 
 ▪ [LinkedIn](https://www.linkedin.com/in/alif-sathar-06047628a/) — roles, placements, collaboration
 ▪ [Kaggle](https://www.kaggle.com/alifsathar) — notebooks and competition work
-▪ [HackerRank](https://www.hackerrank.com/profile/alifsatharoffic1) — problem-solving record
+▪ [HackerRank](https://www.hackerrank.com/profile/alifsatharoffic1) — problem-solving records
 
 <sub>END OF DATASHEET · QuantumAlchemist03</sub>
