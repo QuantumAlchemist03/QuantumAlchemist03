@@ -1,7 +1,7 @@
 # **QUANTUMALCHEMIST03 / README**
 # ALIF SATHAR
 
-**AI ENGINEER — UNDERGRADUATE**  ·  Cambridge, UK  ·  REV 2026.07
+**AI ENGINEER — GRADUATE**  ·  Cambridge, UK  ·  REV 2026.07
 
 <a href="https://www.linkedin.com/in/alif-sathar-06047628a/"><img src="https://img.shields.io/badge/LinkedIn-1d1f20?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.kaggle.com/alifsathar"><img src="https://img.shields.io/badge/Kaggle-1d1f20?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle"></a>
